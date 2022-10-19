@@ -1,13 +1,13 @@
 # calculator_
 Лабораторная работа №1 ВСРПП. Выполнил Александр Дмитраница гр. 20ИТ-3.
 <br>Внешний вид калькулятора:<br>
-<img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Внешний%20вид%20калькулятора.png" >
+<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Внешний%20вид%20калькулятора.png" ><br>
 <br>Выполнены Юнит тесты:<br>
-<img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/UTests.png" >
+<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/UTests.png" ><br>
 <br>Проект представляет собой обычный калькулятор. Можно использовать сложение, вычитанеи, умножение и деление:<br>
-<img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Операции.png" >
+<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Операции.png" ><br>
 <br>Если нужно, можно изменить знак числа с помощью кнопки "+/-:"<br>
-<img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Изменить%20знак.png" >
+<br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Изменить%20знак.png" ><br>
 <br>Для примера введём число "23"и прибавим к нему "-3".<br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/1.png" ><br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/2.png" ><br>
