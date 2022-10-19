@@ -8,3 +8,4 @@
 Выполнены Юнит тесты
 <br>
 <img src="https://raw.githubusercontent.com/CyberSanyok/calculator_/master/UTests.png" >
+<img src="https://disk.yandex.ru/client/disk/Calculator%20png?idApp=client&dialog=slider&idDialog=%2Fdisk%2FCalculator%20png%2F1.png" >
