@@ -3,4 +3,4 @@
 <br>
 Внешний вид калькулятора:
 <br>
-<img src="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/photo.PNG" >
+<img src="https://raw.githubusercontent.com/CyberSanyok/calculator_/master/Внешний%20вид%20калькулятора.png" >
