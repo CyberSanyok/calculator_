@@ -33,11 +33,14 @@ namespace calculator
             try
             {
                 label.Text = "";
-                // если */+- уже были прожаты и нужен новый action
-                if (action != 0)
+                // нужно, чтобы решать, не нажимая на кнопку "="
+                if (firstNum != 0 && result != "")
                 {
+                    ClickEquals(label);
                     action = action2;
+                    result = "";
                 }
+                
                 // если action выбирается первый раз
                 if (result != "" && action == 0)
                 {
@@ -46,16 +49,11 @@ namespace calculator
                     action = action2;
                     result = "";
                 }
-                // нужно, чтобы решать, не нажимая на кнопку "="
-                if (firstNum != 0&&result!="")
+                // если */+- уже были прожаты и нужен новый action
+                if (action != 0)
                 {
-                    ClickEquals(label);
                     action = action2;
-                    result = "";
                 }
-               
-               
-               
             }
             catch (Exception ex) 
             {
