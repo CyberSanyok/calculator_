@@ -5,6 +5,6 @@
 <br>Выполнены Юнит тесты:<br>
 <img src="https://raw.githubusercontent.com/CyberSanyok/calculator_/master/UTests.png" >
 <br>Проект представляет собой обычный калькулятор. Можно использовать сложение, вычитанеи, умножение и деление:<br>
-<img src="[https://raw.githubusercontent.com/CyberSanyok/calculator_/master/UTests.png](https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Операции.png)" >
+<img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Операции.png" >
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/1.png" ><br>
 
