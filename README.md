@@ -1,5 +1,5 @@
 # calculator_
-Лабораторная работа №1 ВСРПП. Выполнил Александр Дмитраница гр. 20ИТ-3.
+<h1>Лабораторная работа №1 ВСРПП. Выполнил Александр Дмитраница гр. 20ИТ-3.
 <br>Внешний вид калькулятора:<br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Внешний%20вид%20калькулятора.png" ><br>
 <br>Выполнены Юнит тесты:<br>
@@ -23,10 +23,11 @@
 <br>В проекте прописаны 2 класса(+класс для юнит тестов):<br>
 <br>-Calculating(+CalculatingTest);<br>
 <br>-Form1.<br>
-<br>В классе Calculating прописано 5 методов:<br>
+<br>В классе Calculating проводятся все расчёты. Прописано 5 методов:<br>
   <br>-EnteredNum(приписывает введённые числа к общему числу);<br>
   <br>-Action(реакция на */+-);<br>
   <br>-PositiveNum(смена знака +/-);<br>
   <br>ClickEquals(расчёт,клик по кнопке "равно")<br>
   <br>Reset(сброс,кнопка "C")<br>
-    <h6>
+    <br>В классе CalculatingTest тестикуется каждый метод класса Calculating<br>
+    <br>В классе Form1 используются методы класса Calculating.<br>
