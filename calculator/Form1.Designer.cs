@@ -53,11 +53,12 @@ namespace calculator
             // 
             // textBox_Output
             // 
+            this.textBox_Output.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBox_Output.Location = new System.Drawing.Point(29, 25);
             this.textBox_Output.Name = "textBox_Output";
             this.textBox_Output.ReadOnly = true;
             this.textBox_Output.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.textBox_Output.Size = new System.Drawing.Size(223, 20);
+            this.textBox_Output.Size = new System.Drawing.Size(223, 29);
             this.textBox_Output.TabIndex = 0;
             this.textBox_Output.Text = "0";
             // 

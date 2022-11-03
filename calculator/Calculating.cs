@@ -106,8 +106,10 @@ namespace calculator
                 }
                 
             }
-            //если у числа больше 9 знаков => E
-            if (resultCalculations.ToString().Length > numLimit) return "E";
+            //округление,т.к. по требованиям нет дробных
+            resultCalculations = Math.Round(resultCalculations);
+            //если у числа больше 9 знаков => EXCEEDED
+            if (resultCalculations.ToString().Length > numLimit) return "EXCEEDED";
             if (resultCalculations < 0)
             {
                 positivity = false;
