@@ -18,3 +18,13 @@
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/5.png" ><br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/6.png" ><br>
 <br>Получилось число "8" (20/5*2=8).<br>
+<h1>Классы<h1>
+<br>В проекте прописаны 2 класса(+класс для юнит тестов):<br>
+<br>-Calculating(+CalculatingTest);<br>
+<br>-Form1.<br>
+<br>В классе Calculating прописано 5 методов:<br>
+  <br>-EnteredNum(приписывает введённые числа к общему числу);<br>
+  <br>-Action(реакция на */+-);<br>
+  <br>-PositiveNum(смена знака +/-);<br>
+  <br>ClickEquals(расчёт,клик по кнопке "равно")<br>
+  <br>Reset(сброс,кнопка "C")<br>
