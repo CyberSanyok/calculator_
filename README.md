@@ -1,6 +1,6 @@
 # calculator_
 <h1>Лабораторная работа №1 ВСРПП. Выполнил Александр Дмитраница гр. 20ИТ-3.
-<br>Внешний вид калькулятора:<br>
+<h5><br>Внешний вид калькулятора:<br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/Внешний%20вид%20калькулятора.png" ><br>
 <br>Выполнены Юнит тесты:<br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/UTests.png" ><br>
