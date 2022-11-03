@@ -18,7 +18,7 @@
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/5.png" ><br>
 <br><img src="https://raw.githubusercontent.com/CyberSanyok/Images/main/Caclulator%20Images/6.png" ><br>
 <br>Получилось число "8" (20/5*2=8).<br>
-<h1>Классы<h1>
+<h1>Классы
   <h6>
 <br>В проекте прописаны 2 класса(+класс для юнит тестов):<br>
 <br>-Calculating(+CalculatingTest);<br>
