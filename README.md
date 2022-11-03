@@ -27,7 +27,7 @@
   <br>-EnteredNum(приписывает введённые числа к общему числу);<br>
   <br>-Action(реакция на */+-);<br>
   <br>-PositiveNum(смена знака +/-);<br>
-  <br>ClickEquals(расчёт,клик по кнопке "равно")<br>
-  <br>Reset(сброс,кнопка "C")<br>
-    <br>В классе CalculatingTest тестикуется каждый метод класса Calculating<br>
+  <br>-ClickEquals(расчёт,клик по кнопке "равно")<br>
+  <br>-Reset(сброс,кнопка "C")<br>
+    <br>В классе CalculatingTest тестикуется каждый метод класса Calculating.<br>
     <br>В классе Form1 используются методы класса Calculating.<br>
